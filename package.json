@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "puppeteer": "^8.0.0",
+    "typescript": "^4.2.3"
+  },
+  "name": "screenshot-utility",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
